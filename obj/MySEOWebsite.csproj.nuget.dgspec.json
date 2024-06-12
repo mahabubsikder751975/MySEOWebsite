@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\MySEOWebsite\\MySEOWebsite.csproj": {}
+    "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\MySEOWebsite\\MySEOWebsite.csproj": {
+    "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\MySEOWebsite\\MySEOWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj",
         "projectName": "MySEOWebsite",
-        "projectPath": "C:\\Users\\User\\MySEOWebsite\\MySEOWebsite.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\MySEOWebsite\\obj\\",
+        "projectPath": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj",
+        "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mahab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
         }
       }
     }
